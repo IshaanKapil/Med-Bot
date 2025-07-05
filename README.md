@@ -26,7 +26,7 @@ Python 3.10+
 pip (Python package manager)
 📦 Local Installation
 # 1. Clone the repository
-git clone https://github.com/DevanshAgarwal25/daily-motivation-generator.git
+git clone https://github.com/IshaanKapil/Motivation-Generator.git
 cd daily-motivation-generator
 
 # 2. Install dependencies
@@ -53,12 +53,14 @@ You can tweak model output randomness directly in the `app.py`:
 temperature=0.95
 top_k=50
 top_p=0.95
+
 🧠 How It Works
 User selects a mood from the dropdown
 The app forms a prompt like:
 “A motivational message for someone who is feeling anxious:”
 GPT-2 generates a unique, encouraging sentence
 Output is cleaned and displayed in the UI
+
 ☁️ Optional: Deploy on Streamlit Cloud
 Push your code to GitHub
 Go to https://streamlit.io/cloud
