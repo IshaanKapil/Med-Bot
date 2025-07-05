@@ -1,8 +1,8 @@
 Medi-bot 🤖💊
-Welcome to Medi-Bot, your intelligent healthcare assistant designed to simplify medical information processing and provide quick insights from your health data.
+Welcome to Med-Bot, your intelligent healthcare assistant designed to simplify medical information processing and provide quick insights from your health data.
 
 Overview
-Medi-Bot is a smart chatbot application that allows users to upload medical reports and receive helpful, AI-driven responses. It supports multiple input formats and provides an accessible way to understand complex medical documents.
+Med-Bot is a smart chatbot application that allows users to upload medical reports and receive helpful, AI-driven responses. It supports multiple input formats and provides an accessible way to understand complex medical documents.
 
 Features
 Multi-format Uploads: Upload medical reports in PDF, image, or audio formats.
@@ -11,7 +11,7 @@ User-Friendly Interface: Easy-to-use interface built with Streamlit for quick in
 Multi-language Support: Communicate in various languages for wider accessibility.
 Voice Interaction: Supports voice commands for hands-free operation.
 Gemini API Model
-Medi-bot leverages the Gemini API model, developed by Google DeepMind, which is a state-of-the-art large language model designed for advanced conversational AI and multimodal understanding.
+Med-Bot leverages the Gemini API model, developed by Google DeepMind, which is a state-of-the-art large language model designed for advanced conversational AI and multimodal understanding.
 
 Key Highlights of Gemini API:
 Conversational AI: Supports complex, multi-turn dialogue interactions.
@@ -31,7 +31,7 @@ Google Cloud account with Gemini API access and credentials
 Installation
 Clone the repository:
 
-git clone https://github.com/IshaanKapil/Medi-Bot.git
+git clone https://github.com/IshaanKapil/Med-Bot.git
 cd Medi-Bot
 Create a .env file:
 
