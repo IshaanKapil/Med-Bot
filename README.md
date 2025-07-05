@@ -1,4 +1,4 @@
-🌟 Daily Motivation Generator – AI-Powered Quote App
+🌟 𝐃𝐚𝐢𝐥𝐲 𝐌𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐨𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 – 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐐𝐮𝐨𝐭𝐞 𝐀𝐩𝐩
 Daily Motivation Generator is a simple and uplifting web application that uses Hugging Face’s GPT-2 model to generate motivational quotes based on the user’s current mood. Whether you’re feeling anxious, unfocused, or just need a boost — this app delivers personalized encouragement instantly.
 
 🚀 Features
