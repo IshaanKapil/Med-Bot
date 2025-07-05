@@ -1,4 +1,4 @@
-Medi-bot 🤖💊
+Med-Bot 🤖💊
 Welcome to Med-Bot, your intelligent healthcare assistant designed to simplify medical information processing and provide quick insights from your health data.
 
 Overview
@@ -32,7 +32,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/IshaanKapil/Med-Bot.git
-cd Medi-Bot
+cd Med-Bot
 Create a .env file:
 
 Add necessary environment variables such as your Google API credentials and Gemini API keys.
@@ -43,6 +43,6 @@ bash Copy code pip install -r requirements.txt Run the application:
 
 bash Copy code streamlit run app.py Usage Upload your medical reports in supported formats.
 
-Interact with Medi-bot through text or voice commands.
+Interact with Med-bot through text or voice commands.
 
 Receive AI-powered responses and insights to understand your health data better.
